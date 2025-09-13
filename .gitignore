@@ -1,0 +1,6 @@
+.cache/
+cache/
+pretrained_models/
+downloads/
+model/downloads/srk/*.wav
+pretrained_models/2stems/*.data*
